@@ -1,1 +1,2 @@
 # Hotel_Booking_Analysis__EDA_project.ipynb
+This GitHub repository contains the code and documentation for an Exploratory Data Analysis (EDA) project focused on hotel bookings. The project aims to explore and analyze a dataset related to hotel reservations to derive meaningful insights and patterns. Through visualizations and statistical analysis, we investigate various aspects of hotel bookings to provide valuable information for stakeholders in the hospitality industry.
